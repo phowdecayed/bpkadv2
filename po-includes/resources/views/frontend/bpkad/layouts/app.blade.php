@@ -156,7 +156,7 @@
 						</div>
 					</div>
 
-<div id="gotoTop" class="icon-angle-up"></div>
+                    <div id="gotoTop" class="icon-angle-up"></div>
 				</div>
 			</div>
 		</footer>

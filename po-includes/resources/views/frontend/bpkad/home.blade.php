@@ -65,9 +65,9 @@
                                             <li><i class="icon-folder-open"></i><a href="#">{{ $latestPost->ctitle }}</a></li>
                                             <li><i class="icon-line-eye"></i>{{ $latestPost->hits }} Views</li>
                                         </ul>
-                                        <div class="entry-content">
-                                            <p align="justify">{{ \Str::limit(strip_tags($latestPost->content), 200) }}</p>
-                                        </div>
+                                    </div>
+                                    <div class="entry-content">
+                                        <p align="justify">{{ \Str::limit(strip_tags($latestPost->content), 200) }}</p>
                                     </div>
                                 </div>
                             </div>
