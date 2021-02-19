@@ -30,48 +30,29 @@
     </div>
 </section>
 
-	<section class="call-to-action no-padding">
-		<div class="container">
-			<div class="action-style-box">
-				<div class="row">
-					<div class="col-md-10">
-						<div class="call-to-action-text">
-							<h3 class="action-title">We understand your needs on construction</h3>
-						</div>
-					</div>
-					<div class="col-md-2">
-						<div class="call-to-action-btn">
-							<a class="btn btn-primary" href="{{ url('/contact') }}">Request Quote</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-    <section id="content">
-        <div class="content-wrap">
-            <div class="container clearfix">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-12 col-lg">
-                            <h2>Berita Terbaru</h2>
-                        </div>
-                        <div class="col-12 col-lg-auto mt-4 mt-lg-0">
-                            <a href="{{ url('/category/all') }}" class="button button-reveal button-large button-circle text-right m-0"><i class="icon-angle-right"></i><span>Lihat Semua Berita</span></a>
-                        </div>
+<section id="content">
+    <div class="content-wrap">
+        <div class="container clearfix">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-12 col-lg">
+                        <h2>Berita Terbaru</h2>
                     </div>
-                    <hr>
+                    <div class="col-12 col-lg-auto mt-4 mt-lg-0">
+                        <a href="{{ url('/category/all') }}" class="button button-reveal button-large button-circle text-right m-0"><i class="icon-angle-right"></i><span>Lihat Semua Berita</span></a>
+                    </div>
                 </div>
-                <div class="row gutter-40 col-mb-80">
-                    <div class="postcontent col-lg-9">
-                        <div id="posts" class="row grid-container gutter-40">
-                            <div class="entry col-12">
-                                @foreach(latestPostWithPaging(5) as $latestPost)
-                                <div class="grid-inner row no-gutters">
-                                    <div class="entry-image col-md-4">
-                                        <a href="{{ prettyUrl($latestPost) }}" data-lightbox="image"><img src="{{ getPicture($latestPost->picture, 'medium', $latestPost->updated_by) }}" alt="{{ $latestPost->title }}"></a>
-                                    </div>
+            <hr>
+        </div>
+        <div class="row gutter-40 col-mb-80">
+            <div class="postcontent col-lg-9">
+                <div id="posts" class="row grid-container gutter-40">
+                    <div class="entry col-12">
+                        @foreach(latestPostWithPaging(5) as $latestPost)
+                            <div class="grid-inner row no-gutters">
+                                <div class="entry-image col-md-4">
+                                    <a href="{{ prettyUrl($latestPost) }}" data-lightbox="image"><img src="{{ getPicture($latestPost->picture, 'medium', $latestPost->updated_by) }}" alt="{{ $latestPost->title }}"></a>
+                                </div>
 
                                 <div class="col-md-8 pl-md-4">
                                     <div class="entry-title title-sm">
@@ -90,16 +71,18 @@
                                     </div>
                                 </div>
                             </div>
-                                @endforeach
-                                <div class="pagination justify-content-center">
-                                    {{ latestPostWithPaging(5)->links() }}
-                                </div>
-                            </div>
+                        @endforeach
+                        <div class="pagination justify-content-center">
+                            {{ latestPostWithPaging(5)->links() }}
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+        </div>
+    <hr>
+
+    </div>
+</section>
 
 @endsection

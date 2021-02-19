@@ -56,7 +56,7 @@
 						<ul id="top-social">
                             <li><a href="{{ getSetting('facebook') }}" target="_blank" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
                             <li><a href="{{ getSetting('twitter') }}" target="_blank" class="si-twitter"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
-                            <li><a href="{{ getSetting('facebook') }}" target="_blank" class="si-instagram"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
+                            <li><a href="{{ getSetting('instagram') }}" target="_blank" class="si-instagram"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
                             <li><a href="{{ getSetting('youtube') }}" target="_blank" class="si-youtube"><span class="ts-icon"><i class="icon-youtube"></i></span><span class="ts-text">Youtube</span></a></li>
 						</ul>
 					</div>
@@ -96,7 +96,9 @@
             </div>
 		</header>
 
+        <section id="content">
 		@yield('content')
+        </section>
 
 		<footer id="footer" class="light">
 				<div class="container">
@@ -108,7 +110,7 @@
 							    <div class="footer-social">
 									    <a href="{{ getSetting('facebook') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-facebook"> <i class="icon-facebook"></i> <i class="icon-facebook"></i></a>
 									    <a href="{{ getSetting('twitter') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-twitter"> <i class="icon-twitter"></i> <i class="icon-twitter"></i></a>
-                                        <a href="{{ getSetting('twitter') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-instagram"> <i class="icon-instagram"></i> <i class="icon-instagram"></i> </a>
+                                        <a href="{{ getSetting('instagram') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-instagram"> <i class="icon-instagram"></i> <i class="icon-instagram"></i> </a>
 									    <a href="{{ getSetting('youtube') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-youtube"> <i class="icon-youtube"></i> <i class="icon-youtube"></i></a>
 							    </div>
 						    </div>

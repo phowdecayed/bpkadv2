@@ -13,7 +13,7 @@
 					</div>
 					<div class="error-body">
 						Gunakan Tombol Dibawah Untuk Kembali ke Halaman Utama<br>
-						<a href="{{ url('/') }}" class="btn btn-primary">Home</a>
+						<a href="{{ url('/') }}" class="button">Home</a>
 					</div>
 				</div>
 			</div>
