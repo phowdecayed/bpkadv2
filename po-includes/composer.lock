@@ -64,6 +64,13 @@
                 "no-captcha",
                 "recaptcha"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/anhskohbo/no-captcha/issues",
+                "source": "https://github.com/anhskohbo/no-captcha/tree/3.3.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-09-10T02:31:52+00:00"
         },
         {
@@ -130,6 +137,13 @@
                 "seotools",
                 "webmaster"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/artesaos/seotools/issues",
+                "source": "https://github.com/artesaos/seotools"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-09-05T13:49:10+00:00"
         },
         {
@@ -182,6 +196,13 @@
                 "cors",
                 "stack"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/asm89/stack-cors/issues",
+                "source": "https://github.com/asm89/stack-cors/tree/1.3.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-12-24T22:41:47+00:00"
         },
         {
@@ -250,6 +271,13 @@
                 "crossdomain",
                 "laravel"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/fruitcake/laravel-cors/issues",
+                "source": "https://github.com/fruitcake/laravel-cors/tree/1.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/barryvdh",
@@ -312,6 +340,13 @@
                 "laravel",
                 "pdf"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/barryvdh/laravel-dompdf/issues",
+                "source": "https://github.com/barryvdh/laravel-dompdf/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/barryvdh",
@@ -351,6 +386,13 @@
                 "MIT"
             ],
             "description": "implementation of xdg base directory specification for php",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/dnoegel/php-xdg-base-dir/issues",
+                "source": "https://github.com/dnoegel/php-xdg-base-dir/tree/v0.1.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-12-04T15:06:13+00:00"
         },
         {
@@ -428,6 +470,13 @@
                 "uppercase",
                 "words"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/doctrine/inflector/issues",
+                "source": "https://github.com/doctrine/inflector/tree/2.0.x"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -504,6 +553,13 @@
                 "parser",
                 "php"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/doctrine/lexer/issues",
+                "source": "https://github.com/doctrine/lexer/tree/1.2.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -586,6 +642,13 @@
             ],
             "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
             "homepage": "https://github.com/dompdf/dompdf",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/dompdf/dompdf/issues",
+                "source": "https://github.com/dompdf/dompdf/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-08-30T22:54:22+00:00"
         },
         {
@@ -640,6 +703,13 @@
                 "cron",
                 "schedule"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/dragonmantank/cron-expression/issues",
+                "source": "https://github.com/dragonmantank/cron-expression/tree/v2.3.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/dragonmantank",
@@ -704,6 +774,13 @@
                 "validation",
                 "validator"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/egulias/EmailValidator/issues",
+                "source": "https://github.com/egulias/EmailValidator/tree/2.1.25"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/egulias",
@@ -760,6 +837,13 @@
             "keywords": [
                 "html"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/ezyang/htmlpurifier/issues",
+                "source": "https://github.com/ezyang/htmlpurifier/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-06-29T00:56:53+00:00"
         },
         {
@@ -814,6 +898,13 @@
                 "proxy",
                 "trusted proxy"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/fideloper/TrustedProxy/issues",
+                "source": "https://github.com/fideloper/TrustedProxy/tree/4.4.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-10-22T13:48:01+00:00"
         },
         {
@@ -864,6 +955,13 @@
                 "jwt",
                 "php"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/firebase/php-jwt/issues",
+                "source": "https://github.com/firebase/php-jwt/tree/v5.2.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2021-02-12T00:02:00+00:00"
         },
         {
@@ -926,6 +1024,13 @@
                 "crossdomain",
                 "laravel"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/fruitcake/laravel-cors/issues",
+                "source": "https://github.com/fruitcake/laravel-cors/tree/0.11"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-12-25T17:24:53+00:00"
         },
         {
@@ -991,6 +1096,13 @@
             "keywords": [
                 "google"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/googleapis/google-api-php-client/issues",
+                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.9.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2021-01-19T17:48:59+00:00"
         },
         {
@@ -1028,6 +1140,13 @@
             "keywords": [
                 "google"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.160.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2021-02-13T12:20:02+00:00"
         },
         {
@@ -1080,6 +1199,14 @@
                 "google",
                 "oauth2"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "docs": "https://googleapis.github.io/google-auth-library-php/master/",
+                "issues": "https://github.com/googleapis/google-auth-library-php/issues",
+                "source": "https://github.com/googleapis/google-auth-library-php/tree/v1.15.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2021-02-05T20:50:04+00:00"
         },
         {
@@ -1135,6 +1262,13 @@
                 "laravel",
                 "manager"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/GrahamCampbell/Laravel-Manager/issues",
+                "source": "https://github.com/GrahamCampbell/Laravel-Manager/tree/4.6"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -1225,6 +1359,13 @@
                 "rest",
                 "web service"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/guzzle/guzzle/issues",
+                "source": "https://github.com/guzzle/guzzle/tree/7.2.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -1294,6 +1435,13 @@
             "keywords": [
                 "promise"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/guzzle/promises/issues",
+                "source": "https://github.com/guzzle/promises/tree/1.4.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-09-30T07:37:28+00:00"
         },
         {
@@ -1365,6 +1513,13 @@
                 "uri",
                 "url"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/guzzle/psr7/issues",
+                "source": "https://github.com/guzzle/psr7/tree/1.7.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-09-30T07:37:11+00:00"
         },
         {
@@ -1431,6 +1586,13 @@
                 "obfuscate",
                 "youtube"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/vinkla/hashids/issues",
+                "source": "https://github.com/vinkla/hashids/tree/4.1.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-11-26T19:24:33+00:00"
         },
         {
@@ -1501,6 +1663,13 @@
                 "thumbnail",
                 "watermark"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/Intervention/image/issues",
+                "source": "https://github.com/Intervention/image/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-11-02T09:15:47+00:00"
         },
         {
@@ -1650,6 +1819,13 @@
                 "framework",
                 "laravel"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/laravel/framework/issues",
+                "source": "https://github.com/laravel/framework"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2021-02-02T13:50:12+00:00"
         },
         {
@@ -1713,6 +1889,13 @@
                 "laravel",
                 "psysh"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/laravel/tinker/issues",
+                "source": "https://github.com/laravel/tinker/tree/v1.0.10"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-08-07T15:10:45+00:00"
         },
         {
@@ -1781,6 +1964,13 @@
             ],
             "description": "HTML and Form Builders for the Laravel Framework",
             "homepage": "https://laravelcollective.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/LaravelCollective/html/issues",
+                "source": "https://github.com/LaravelCollective/html"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-12-15T20:20:05+00:00"
         },
         {
@@ -1850,6 +2040,15 @@
                 "md",
                 "parser"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "docs": "https://commonmark.thephpleague.com/",
+                "issues": "https://github.com/thephpleague/commonmark/issues",
+                "rss": "https://github.com/thephpleague/commonmark/releases.atom",
+                "source": "https://github.com/thephpleague/commonmark"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://enjoy.gitstore.app/repositories/thephpleague/commonmark",
@@ -1961,6 +2160,13 @@
                 "sftp",
                 "storage"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/thephpleague/flysystem/issues",
+                "source": "https://github.com/thephpleague/flysystem/tree/1.x"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://offset.earth/frankdejonge",
@@ -2028,6 +2234,13 @@
                 "manipulation",
                 "processing"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/thephpleague/glide/issues",
+                "source": "https://github.com/thephpleague/glide/tree/1.7.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-11-05T17:34:03+00:00"
         },
         {
@@ -2070,6 +2283,13 @@
                 }
             ],
             "description": "Mime-type detection for Flysystem",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/thephpleague/mime-type-detection/issues",
+                "source": "https://github.com/thephpleague/mime-type-detection/tree/1.7.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/frankdejonge",
@@ -2144,6 +2364,13 @@
                 "php",
                 "phpspreadsheet"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/Maatwebsite/Laravel-Excel/issues",
+                "source": "https://github.com/Maatwebsite/Laravel-Excel/tree/3.1.26"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://laravel-excel.com/commercial-support",
@@ -2215,6 +2442,13 @@
                 "stream",
                 "zip"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/maennchen/ZipStream-PHP/issues",
+                "source": "https://github.com/maennchen/ZipStream-PHP/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://opencollective.com/zipstream",
@@ -2316,6 +2550,13 @@
                 "complex",
                 "mathematics"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/MarkBaker/PHPComplex/issues",
+                "source": "https://github.com/MarkBaker/PHPComplex/tree/PHP8"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-08-26T10:42:07+00:00"
         },
         {
@@ -2386,6 +2627,13 @@
                 "matrix",
                 "vector"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/MarkBaker/PHPMatrix/issues",
+                "source": "https://github.com/MarkBaker/PHPMatrix/tree/2.1.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2021-01-23T16:37:31+00:00"
         },
         {
@@ -2468,6 +2716,13 @@
                 "logging",
                 "psr-3"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/Seldaek/monolog/issues",
+                "source": "https://github.com/Seldaek/monolog/tree/2.2.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/Seldaek",
@@ -2524,6 +2779,13 @@
             "keywords": [
                 "enum"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/myclabs/php-enum/issues",
+                "source": "https://github.com/myclabs/php-enum/tree/1.8.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/mnapoli",
@@ -2613,6 +2875,13 @@
                 "datetime",
                 "time"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/briannesbitt/Carbon/issues",
+                "source": "https://github.com/briannesbitt/Carbon"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://opencollective.com/Carbon",
@@ -2665,6 +2934,13 @@
                 }
             ],
             "description": "A basic but flexible php tree data structure and a fluent tree builder implementation.",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/nicmart/Tree/issues",
+                "source": "https://github.com/nicmart/Tree/tree/0.3.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-11-27T09:02:17+00:00"
         },
         {
@@ -2717,6 +2993,13 @@
                 "parser",
                 "php"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/nikic/PHP-Parser/issues",
+                "source": "https://github.com/nikic/PHP-Parser/tree/v4.10.4"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-12-20T10:01:03+00:00"
         },
         {
@@ -2778,6 +3061,13 @@
                 "serialization",
                 "serialize"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/opis/closure/issues",
+                "source": "https://github.com/opis/closure/tree/3.6.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-11-07T02:01:34+00:00"
         },
         {
@@ -2840,6 +3130,14 @@
                 "hex2bin",
                 "rfc4648"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "email": "info@paragonie.com",
+                "issues": "https://github.com/paragonie/constant_time_encoding/issues",
+                "source": "https://github.com/paragonie/constant_time_encoding"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-12-06T15:14:20+00:00"
         },
         {
@@ -2885,6 +3183,14 @@
                 "pseudorandom",
                 "random"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "email": "info@paragonie.com",
+                "issues": "https://github.com/paragonie/random_compat/issues",
+                "source": "https://github.com/paragonie/random_compat"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2018-07-02T15:55:56+00:00"
         },
         {
@@ -2922,6 +3228,13 @@
             ],
             "description": "A library to read, parse, export and make subsets of different types of font files.",
             "homepage": "https://github.com/PhenX/php-font-lib",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/PhenX/php-font-lib/issues",
+                "source": "https://github.com/PhenX/php-font-lib/tree/0.5.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-03-08T15:31:32+00:00"
         },
         {
@@ -2962,6 +3275,13 @@
             ],
             "description": "A library to read, parse and export to PDF SVG files.",
             "homepage": "https://github.com/PhenX/php-svg-lib",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/PhenX/php-svg-lib/issues",
+                "source": "https://github.com/PhenX/php-svg-lib/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-09-11T20:02:13+00:00"
         },
         {
@@ -3007,6 +3327,13 @@
                     "email": "jakub.onderka@gmail.com"
                 }
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/php-parallel-lint/PHP-Console-Color/issues",
+                "source": "https://github.com/php-parallel-lint/PHP-Console-Color/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-05-14T05:47:14+00:00"
         },
         {
@@ -3056,6 +3383,13 @@
                 }
             ],
             "description": "Highlight PHP code in terminal",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/php-parallel-lint/PHP-Console-Highlighter/issues",
+                "source": "https://github.com/php-parallel-lint/PHP-Console-Highlighter/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-05-13T07:37:49+00:00"
         },
         {
@@ -3153,6 +3487,13 @@
                 "xls",
                 "xlsx"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/PHPOffice/PhpSpreadsheet/issues",
+                "source": "https://github.com/PHPOffice/PhpSpreadsheet/tree/1.16.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-12-31T18:03:49+00:00"
         },
         {
@@ -3208,6 +3549,13 @@
                 "php",
                 "type"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/schmittjoh/php-option/issues",
+                "source": "https://github.com/schmittjoh/php-option/tree/1.7.5"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -3311,6 +3659,13 @@
                 "x.509",
                 "x509"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/phpseclib/phpseclib/issues",
+                "source": "https://github.com/phpseclib/phpseclib/tree/3.0.5"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/terrafrost",
@@ -3371,6 +3726,12 @@
                 "psr",
                 "psr-6"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/php-fig/cache/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2016-08-06T20:24:11+00:00"
         },
         {
@@ -3420,6 +3781,13 @@
                 "container-interop",
                 "psr"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/php-fig/container/issues",
+                "source": "https://github.com/php-fig/container/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2017-02-14T16:28:37+00:00"
         },
         {
@@ -3469,6 +3837,12 @@
                 "psr",
                 "psr-18"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/php-fig/http-client/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-06-29T06:28:15+00:00"
         },
         {
@@ -3521,6 +3895,12 @@
                 "request",
                 "response"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/php-fig/http-factory/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-04-30T12:38:16+00:00"
         },
         {
@@ -3571,6 +3951,12 @@
                 "request",
                 "response"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/php-fig/http-message/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2016-08-06T14:39:51+00:00"
         },
         {
@@ -3618,6 +4004,12 @@
                 "psr",
                 "psr-3"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/php-fig/log/tree/1.1.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-03-23T09:12:05+00:00"
         },
         {
@@ -3666,6 +4058,12 @@
                 "psr-16",
                 "simple-cache"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/php-fig/simple-cache/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2017-10-23T01:57:42+00:00"
         },
         {
@@ -3740,6 +4138,13 @@
                 "interactive",
                 "shell"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/bobthecow/psysh/issues",
+                "source": "https://github.com/bobthecow/psysh/tree/v0.9.12"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-12-06T14:19:43+00:00"
         },
         {
@@ -3780,6 +4185,13 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/ralouphie/getallheaders/issues",
+                "source": "https://github.com/ralouphie/getallheaders/tree/develop"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-03-08T08:55:37+00:00"
         },
         {
@@ -3867,6 +4279,15 @@
                 "identifier",
                 "uuid"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/ramsey/uuid/issues",
+                "rss": "https://github.com/ramsey/uuid/releases.atom",
+                "source": "https://github.com/ramsey/uuid",
+                "wiki": "https://github.com/ramsey/uuid/wiki"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-02-21T04:36:14+00:00"
         },
         {
@@ -3912,10 +4333,18 @@
                 "parser",
                 "stylesheet"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sabberworm/PHP-CSS-Parser/issues",
+                "source": "https://github.com/sabberworm/PHP-CSS-Parser/tree/8.3.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-06-01T09:10:00+00:00"
         },
         {
             "name": "spatie/browsershot",
+<<<<<<< HEAD
             "version": "3.40.2",
             "source": {
                 "type": "git",
@@ -3926,16 +4355,37 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/spatie/browsershot/zipball/3e55eaf5ab8cee65d1661a567e89b3374afb9116",
                 "reference": "3e55eaf5ab8cee65d1661a567e89b3374afb9116",
+=======
+            "version": "3.26.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spatie/browsershot.git",
+                "reference": "42dd2120577d9a4c6937773d7a233fffe72a06c7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spatie/browsershot/zipball/42dd2120577d9a4c6937773d7a233fffe72a06c7",
+                "reference": "42dd2120577d9a4c6937773d7a233fffe72a06c7",
+>>>>>>> 1c5bf6d (initial)
                 "shasum": ""
             },
             "require": {
                 "php": "^7.1",
+<<<<<<< HEAD
                 "spatie/image": "^1.5.3",
                 "spatie/temporary-directory": "^1.1",
                 "symfony/process": "^4.2|^5.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "^6.1|^7.5",
+=======
+                "spatie/image": "^1.4",
+                "spatie/temporary-directory": "^1.1",
+                "symfony/process": "^3.0|^4.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^6.1|^7.0",
+>>>>>>> 1c5bf6d (initial)
                 "spatie/phpunit-snapshot-assertions": "^1.0"
             },
             "type": "library",
@@ -3968,6 +4418,7 @@
                 "screenshot",
                 "webpage"
             ],
+<<<<<<< HEAD
             "funding": [
                 {
                     "url": "https://github.com/spatie",
@@ -3975,6 +4426,13 @@
                 }
             ],
             "time": "2020-11-11T22:18:15+00:00"
+=======
+            "support": {
+                "issues": "https://github.com/spatie/browsershot/issues",
+                "source": "https://github.com/spatie/browsershot/tree/master"
+            },
+            "time": "2018-10-18T17:24:07+00:00"
+>>>>>>> 1c5bf6d (initial)
         },
         {
             "name": "spatie/crawler",
@@ -4028,6 +4486,13 @@
                 "spatie",
                 "website"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/crawler/issues",
+                "source": "https://github.com/spatie/crawler/tree/4.7.6"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/spatie",
@@ -4084,6 +4549,13 @@
                 "mysqldump",
                 "spatie"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/db-dumper/issues",
+                "source": "https://github.com/spatie/db-dumper/tree/2.21.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/spatie",
@@ -4094,6 +4566,7 @@
         },
         {
             "name": "spatie/image",
+<<<<<<< HEAD
             "version": "1.10.2",
             "source": {
                 "type": "git",
@@ -4118,6 +4591,31 @@
             "require-dev": {
                 "phpunit/phpunit": "^8.0|^9.0",
                 "symfony/var-dumper": "^4.0|^5.0"
+=======
+            "version": "1.5.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spatie/image.git",
+                "reference": "d4cb6afff1b98fd6e17396d91e0e584c3d91bb23"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spatie/image/zipball/d4cb6afff1b98fd6e17396d91e0e584c3d91bb23",
+                "reference": "d4cb6afff1b98fd6e17396d91e0e584c3d91bb23",
+                "shasum": ""
+            },
+            "require": {
+                "league/glide": "^1.2",
+                "php": "^7.0",
+                "spatie/image-optimizer": "^1.0",
+                "spatie/temporary-directory": "^1.0.0",
+                "symfony/process": "^3.0|^4.0"
+            },
+            "require-dev": {
+                "larapack/dd": "^1.1",
+                "phpunit/phpunit": "^6.0|^7.0",
+                "symfony/var-dumper": "^3.2"
+>>>>>>> 1c5bf6d (initial)
             },
             "type": "library",
             "autoload": {
@@ -4143,6 +4641,7 @@
                 "image",
                 "spatie"
             ],
+<<<<<<< HEAD
             "funding": [
                 {
                     "url": "https://spatie.be/open-source/support-us",
@@ -4154,6 +4653,13 @@
                 }
             ],
             "time": "2021-01-26T07:53:19+00:00"
+=======
+            "support": {
+                "issues": "https://github.com/spatie/image/issues",
+                "source": "https://github.com/spatie/image/tree/master"
+            },
+            "time": "2018-05-05T21:44:52+00:00"
+>>>>>>> 1c5bf6d (initial)
         },
         {
             "name": "spatie/image-optimizer",
@@ -4203,6 +4709,13 @@
                 "image-optimizer",
                 "spatie"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/image-optimizer/issues",
+                "source": "https://github.com/spatie/image-optimizer/tree/1.3.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-11-28T12:37:58+00:00"
         },
         {
@@ -4279,6 +4792,13 @@
                 "spatie",
                 "user"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/laravel-activitylog/issues",
+                "source": "https://github.com/spatie/laravel-activitylog/tree/3.16.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://spatie.be/open-source/support-us",
@@ -4356,6 +4876,13 @@
                 "retrieve",
                 "spatie"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/laravel-analytics/issues",
+                "source": "https://github.com/spatie/laravel-analytics/tree/3.10.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://spatie.be/open-source/support-us",
@@ -4437,6 +4964,13 @@
                 "laravel-backup",
                 "spatie"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/laravel-backup/issues",
+                "source": "https://github.com/spatie/laravel-backup/tree/6.14.4"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sponsors/spatie",
@@ -4515,6 +5049,13 @@
                 "security",
                 "spatie"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/laravel-permission/issues",
+                "source": "https://github.com/spatie/laravel-permission/tree/3.18.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/spatie",
@@ -4581,6 +5122,13 @@
                 "laravel-sitemap",
                 "spatie"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/laravel-sitemap/issues",
+                "source": "https://github.com/spatie/laravel-sitemap/tree/5.8.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://spatie.be/open-source/support-us",
@@ -4634,6 +5182,13 @@
                 "robots-txt",
                 "spatie"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/robots-txt/issues",
+                "source": "https://github.com/spatie/robots-txt/tree/1.0.10"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-12-07T11:10:49+00:00"
         },
         {
@@ -4681,6 +5236,13 @@
                 "spatie",
                 "temporary-directory"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/spatie/temporary-directory/issues",
+                "source": "https://github.com/spatie/temporary-directory/tree/1.3.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-11-09T15:54:21+00:00"
         },
         {
@@ -4742,6 +5304,13 @@
                 "mail",
                 "mailer"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/swiftmailer/swiftmailer/issues",
+                "source": "https://github.com/swiftmailer/swiftmailer/tree/v6.2.5"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/fabpot",
@@ -4830,6 +5399,12 @@
                 "caching",
                 "psr6"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/cache/tree/v5.2.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4906,6 +5481,12 @@
                 "interoperability",
                 "standards"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/cache-contracts/tree/v2.2.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4992,6 +5573,12 @@
             ],
             "description": "Eases the creation of beautiful and testable command line interfaces",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/console/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5054,6 +5641,12 @@
             ],
             "description": "Converts CSS selectors to XPath expressions",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/css-selector/tree/v5.2.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5120,6 +5713,12 @@
             ],
             "description": "Provides tools to ease debugging PHP code",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/debug/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5184,6 +5783,12 @@
             ],
             "description": "A generic function and convention to trigger deprecation notices",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/deprecation-contracts/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5255,6 +5860,12 @@
             ],
             "description": "Eases DOM navigation for HTML and XML documents",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/dom-crawler/tree/v5.2.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5321,6 +5932,12 @@
             ],
             "description": "Provides tools to manage errors and ease debugging PHP code",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/error-handler/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5401,6 +6018,12 @@
             ],
             "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/event-dispatcher/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5477,6 +6100,12 @@
                 "interoperability",
                 "standards"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v1.1.9"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5535,6 +6164,12 @@
             ],
             "description": "Finds files and directories via an intuitive fluent interface",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/finder/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5611,6 +6246,12 @@
                 "interoperability",
                 "standards"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/http-client-contracts/tree/v2.3.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5676,6 +6317,12 @@
             ],
             "description": "Defines an object-oriented layer for the HTTP specification",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/http-foundation/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5777,6 +6424,12 @@
             ],
             "description": "Provides a structured process for converting a Request into a Response",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/http-kernel/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5856,6 +6509,12 @@
                 "mime",
                 "mime-type"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/mime/tree/v5.2.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5874,7 +6533,11 @@
         },
         {
             "name": "symfony/polyfill-ctype",
+<<<<<<< HEAD
             "version": "v1.22.1",
+=======
+            "version": "v1.22.0",
+>>>>>>> 1c5bf6d (initial)
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
@@ -5932,6 +6595,12 @@
                 "polyfill",
                 "portable"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -5950,6 +6619,7 @@
         },
         {
             "name": "symfony/polyfill-iconv",
+<<<<<<< HEAD
             "version": "v1.22.1",
             "source": {
                 "type": "git",
@@ -5960,6 +6630,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/polyfill-iconv/zipball/06fb361659649bcfd6a208a0f1fcaf4e827ad342",
                 "reference": "06fb361659649bcfd6a208a0f1fcaf4e827ad342",
+=======
+            "version": "v1.22.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-iconv.git",
+                "reference": "b34bfb8c4c22650ac080d2662ae3502e5f2f4ae6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-iconv/zipball/b34bfb8c4c22650ac080d2662ae3502e5f2f4ae6",
+                "reference": "b34bfb8c4c22650ac080d2662ae3502e5f2f4ae6",
+>>>>>>> 1c5bf6d (initial)
                 "shasum": ""
             },
             "require": {
@@ -6009,6 +6691,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-iconv/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6023,6 +6711,7 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2021-01-22T09:19:47+00:00"
         },
         {
@@ -6037,6 +6726,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/2d63434d922daf7da8dd863e7907e67ee3031483",
                 "reference": "2d63434d922daf7da8dd863e7907e67ee3031483",
+=======
+            "time": "2021-01-07T16:49:33+00:00"
+        },
+        {
+            "name": "symfony/polyfill-intl-idn",
+            "version": "v1.22.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-intl-idn.git",
+                "reference": "0eb8293dbbcd6ef6bf81404c9ce7d95bcdf34f44"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/0eb8293dbbcd6ef6bf81404c9ce7d95bcdf34f44",
+                "reference": "0eb8293dbbcd6ef6bf81404c9ce7d95bcdf34f44",
+>>>>>>> 1c5bf6d (initial)
                 "shasum": ""
             },
             "require": {
@@ -6093,6 +6798,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6107,6 +6818,7 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2021-01-22T09:19:47+00:00"
         },
         {
@@ -6121,6 +6833,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/43a0283138253ed1d48d352ab6d0bdb3f809f248",
                 "reference": "43a0283138253ed1d48d352ab6d0bdb3f809f248",
+=======
+            "time": "2021-01-07T16:49:33+00:00"
+        },
+        {
+            "name": "symfony/polyfill-intl-normalizer",
+            "version": "v1.22.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
+                "reference": "6e971c891537eb617a00bb07a43d182a6915faba"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-normalizer/zipball/6e971c891537eb617a00bb07a43d182a6915faba",
+                "reference": "6e971c891537eb617a00bb07a43d182a6915faba",
+>>>>>>> 1c5bf6d (initial)
                 "shasum": ""
             },
             "require": {
@@ -6174,6 +6902,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6188,6 +6922,7 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2021-01-22T09:19:47+00:00"
         },
         {
@@ -6202,6 +6937,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/5232de97ee3b75b0360528dae24e73db49566ab1",
                 "reference": "5232de97ee3b75b0360528dae24e73db49566ab1",
+=======
+            "time": "2021-01-07T17:09:11+00:00"
+        },
+        {
+            "name": "symfony/polyfill-mbstring",
+            "version": "v1.22.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-mbstring.git",
+                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
+                "reference": "f377a3dd1fde44d37b9831d68dc8dea3ffd28e13",
+>>>>>>> 1c5bf6d (initial)
                 "shasum": ""
             },
             "require": {
@@ -6251,6 +7002,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6265,11 +7022,19 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2021-01-22T09:19:47+00:00"
         },
         {
             "name": "symfony/polyfill-php72",
             "version": "v1.22.1",
+=======
+            "time": "2021-01-07T16:49:33+00:00"
+        },
+        {
+            "name": "symfony/polyfill-php72",
+            "version": "v1.22.0",
+>>>>>>> 1c5bf6d (initial)
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php72.git",
@@ -6324,6 +7089,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php72/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6342,7 +7113,11 @@
         },
         {
             "name": "symfony/polyfill-php73",
+<<<<<<< HEAD
             "version": "v1.22.1",
+=======
+            "version": "v1.22.0",
+>>>>>>> 1c5bf6d (initial)
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php73.git",
@@ -6400,6 +7175,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php73/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6418,7 +7199,11 @@
         },
         {
             "name": "symfony/polyfill-php80",
+<<<<<<< HEAD
             "version": "v1.22.1",
+=======
+            "version": "v1.22.0",
+>>>>>>> 1c5bf6d (initial)
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
@@ -6480,6 +7265,12 @@
                 "portable",
                 "shim"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.22.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6538,6 +7329,12 @@
             ],
             "description": "Executes commands in sub-processes",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/process/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6623,6 +7420,12 @@
                 "uri",
                 "url"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/routing/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6699,6 +7502,12 @@
                 "interoperability",
                 "standards"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/service-contracts/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6784,6 +7593,12 @@
             ],
             "description": "Provides tools to internationalize your application",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/translation/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6859,6 +7674,12 @@
                 "interoperability",
                 "standards"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/translation-contracts/tree/v2.3.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6945,6 +7766,12 @@
                 "debug",
                 "dump"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/var-dumper/tree/v4.4.19"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -7015,6 +7842,12 @@
                 "instantiate",
                 "serialize"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "source": "https://github.com/symfony/var-exporter/tree/v5.2.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -7079,6 +7912,13 @@
                 "collection",
                 "laravel"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/tighten/collect/issues",
+                "source": "https://github.com/tighten/collect/tree/v7.26.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-09-05T00:05:48+00:00"
         },
         {
@@ -7128,6 +7968,13 @@
             ],
             "description": "CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.",
             "homepage": "https://github.com/tijsverkoyen/CssToInlineStyles",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/tijsverkoyen/CssToInlineStyles/issues",
+                "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/2.2.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-07-13T06:12:54+00:00"
         },
         {
@@ -7200,6 +8047,13 @@
                 "obfuscate",
                 "youtube"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/vinkla/laravel-hashids/issues",
+                "source": "https://github.com/vinkla/laravel-hashids/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2019-08-28T12:35:26+00:00"
         },
         {
@@ -7263,6 +8117,13 @@
                 "env",
                 "environment"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/vlucas/phpdotenv/issues",
+                "source": "https://github.com/vlucas/phpdotenv/tree/v3.6.8"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -7344,6 +8205,13 @@
                 "jquery",
                 "laravel"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/yajra/laravel-datatables/issues",
+                "source": "https://github.com/yajra/laravel-datatables/tree/v9.15.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://www.paypal.me/yajra",
@@ -7407,6 +8275,13 @@
                 "constructor",
                 "instantiate"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/doctrine/instantiator/issues",
+                "source": "https://github.com/doctrine/instantiator/tree/1.4.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -7476,6 +8351,13 @@
                 "flare",
                 "reporting"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/facade/flare-client-php/issues",
+                "source": "https://github.com/facade/flare-client-php/tree/1.3.7"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/spatie",
@@ -7552,6 +8434,15 @@
                 "laravel",
                 "page"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "docs": "https://flareapp.io/docs/ignition-for-laravel/introduction",
+                "forum": "https://twitter.com/flareappio",
+                "issues": "https://github.com/facade/ignition/issues",
+                "source": "https://github.com/facade/ignition"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-10-30T13:40:01+00:00"
         },
         {
@@ -7601,6 +8492,13 @@
                 "flare",
                 "ignition"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/facade/ignition-contracts/issues",
+                "source": "https://github.com/facade/ignition-contracts/tree/1.0.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-10-16T08:27:54+00:00"
         },
         {
@@ -7662,6 +8560,13 @@
                 "throwable",
                 "whoops"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/filp/whoops/issues",
+                "source": "https://github.com/filp/whoops/tree/2.9.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/denis-sokolov",
@@ -7718,6 +8623,13 @@
                 "faker",
                 "fixtures"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/fzaninotto/Faker/issues",
+                "source": "https://github.com/fzaninotto/Faker/tree/v1.9.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "abandoned": true,
             "time": "2020-12-11T09:56:16+00:00"
         },
@@ -7766,6 +8678,13 @@
             "keywords": [
                 "test"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/hamcrest/hamcrest-php/issues",
+                "source": "https://github.com/hamcrest/hamcrest-php/tree/v2.0.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-07-09T08:09:16+00:00"
         },
         {
@@ -7816,6 +8735,13 @@
                 "laravel",
                 "ui"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/laravel/ui/issues",
+                "source": "https://github.com/laravel/ui/tree/v1.3.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-11-03T19:38:34+00:00"
         },
         {
@@ -7884,6 +8810,13 @@
                 "test double",
                 "testing"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/mockery/mockery/issues",
+                "source": "https://github.com/mockery/mockery/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-08-11T18:10:13+00:00"
         },
         {
@@ -7932,6 +8865,13 @@
                 "object",
                 "object graph"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/myclabs/DeepCopy/issues",
+                "source": "https://github.com/myclabs/DeepCopy/tree/1.10.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://tidelift.com/funding/github/packagist/myclabs/deep-copy",
@@ -8000,6 +8940,13 @@
                 "php",
                 "symfony"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/nunomaduro/collision/issues",
+                "source": "https://github.com/nunomaduro/collision"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=66BYDWAT92N6L",
@@ -8070,6 +9017,13 @@
                 }
             ],
             "description": "Component for reading phar.io manifest information from a PHP Archive (PHAR)",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/phar-io/manifest/issues",
+                "source": "https://github.com/phar-io/manifest/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-06-27T14:33:11+00:00"
         },
         {
@@ -8117,6 +9071,13 @@
                 }
             ],
             "description": "Library for handling version information and constraints",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/phar-io/version/issues",
+                "source": "https://github.com/phar-io/version/tree/3.0.4"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-12-13T23:18:30+00:00"
         },
         {
@@ -8166,6 +9127,13 @@
                 "reflection",
                 "static analysis"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/phpDocumentor/ReflectionCommon/issues",
+                "source": "https://github.com/phpDocumentor/ReflectionCommon/tree/2.x"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-06-27T09:03:43+00:00"
         },
         {
@@ -8218,6 +9186,13 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
+                "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-09-03T19:13:55+00:00"
         },
         {
@@ -8263,6 +9238,13 @@
                 }
             ],
             "description": "A PSR-5 based resolver of Class names, Types and Structural Element Names",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/phpDocumentor/TypeResolver/issues",
+                "source": "https://github.com/phpDocumentor/TypeResolver/tree/1.4.0"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-09-17T18:55:26+00:00"
         },
         {
@@ -8326,6 +9308,13 @@
                 "spy",
                 "stub"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/phpspec/prophecy/issues",
+                "source": "https://github.com/phpspec/prophecy/tree/1.12.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-12-19T10:15:11+00:00"
         },
         {
@@ -8389,6 +9378,13 @@
                 "testing",
                 "xunit"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-code-coverage/issues",
+                "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/7.0.14"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -8445,6 +9441,13 @@
                 "filesystem",
                 "iterator"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-file-iterator/issues",
+                "source": "https://github.com/sebastianbergmann/php-file-iterator/tree/2.0.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -8492,6 +9495,13 @@
             "keywords": [
                 "template"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-text-template/issues",
+                "source": "https://github.com/sebastianbergmann/php-text-template/tree/1.2.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2015-06-21T13:50:34+00:00"
         },
         {
@@ -8541,6 +9551,13 @@
             "keywords": [
                 "timer"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-timer/issues",
+                "source": "https://github.com/sebastianbergmann/php-timer/tree/2.1.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -8596,6 +9613,13 @@
             "keywords": [
                 "tokenizer"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/php-token-stream/issues",
+                "source": "https://github.com/sebastianbergmann/php-token-stream/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -8686,6 +9710,13 @@
                 "testing",
                 "xunit"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/phpunit/issues",
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/8.5.14"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://phpunit.de/donate.html",
@@ -8762,6 +9793,13 @@
                 "highlight.php",
                 "syntax"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/scrivo/highlight.php/issues",
+                "source": "https://github.com/scrivo/highlight.php"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/allejo",
@@ -8813,6 +9851,13 @@
             ],
             "description": "Looks up which function or method a line of code belongs to",
             "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/issues",
+                "source": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/tree/1.0.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -8883,6 +9928,13 @@
                 "compare",
                 "equality"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/comparator/issues",
+                "source": "https://github.com/sebastianbergmann/comparator/tree/3.0.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -8945,6 +9997,13 @@
                 "unidiff",
                 "unified diff"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/diff/issues",
+                "source": "https://github.com/sebastianbergmann/diff/tree/3.0.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9004,6 +10063,13 @@
                 "environment",
                 "hhvm"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/environment/issues",
+                "source": "https://github.com/sebastianbergmann/environment/tree/4.2.4"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9077,6 +10143,13 @@
                 "export",
                 "exporter"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/exporter/issues",
+                "source": "https://github.com/sebastianbergmann/exporter/tree/3.1.3"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9137,6 +10210,13 @@
             "keywords": [
                 "global state"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/global-state/issues",
+                "source": "https://github.com/sebastianbergmann/global-state/tree/3.0.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9190,6 +10270,13 @@
             ],
             "description": "Traverses array structures and object graphs to enumerate all referenced objects",
             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/object-enumerator/issues",
+                "source": "https://github.com/sebastianbergmann/object-enumerator/tree/3.0.4"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9241,6 +10328,13 @@
             ],
             "description": "Allows reflection of object attributes, including inherited and non-public ones",
             "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/object-reflector/issues",
+                "source": "https://github.com/sebastianbergmann/object-reflector/tree/1.1.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9300,6 +10394,13 @@
             ],
             "description": "Provides functionality to recursively process PHP variables",
             "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/recursion-context/issues",
+                "source": "https://github.com/sebastianbergmann/recursion-context/tree/3.0.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9348,6 +10449,13 @@
             ],
             "description": "Provides a list of PHP built-in functions that operate on resources",
             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/resource-operations/issues",
+                "source": "https://github.com/sebastianbergmann/resource-operations/tree/2.0.2"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9400,6 +10508,13 @@
             ],
             "description": "Collection of value objects that represent the types of the PHP type system",
             "homepage": "https://github.com/sebastianbergmann/type",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/type/issues",
+                "source": "https://github.com/sebastianbergmann/type/tree/1.1.4"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/sebastianbergmann",
@@ -9449,6 +10564,13 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/sebastianbergmann/version/issues",
+                "source": "https://github.com/sebastianbergmann/version/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2016-10-03T07:35:21+00:00"
         },
         {
@@ -9489,6 +10611,13 @@
                 }
             ],
             "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/theseer/tokenizer/issues",
+                "source": "https://github.com/theseer/tokenizer/tree/master"
+            },
+>>>>>>> 1c5bf6d (initial)
             "funding": [
                 {
                     "url": "https://github.com/theseer",
@@ -9544,6 +10673,13 @@
                 "check",
                 "validate"
             ],
+<<<<<<< HEAD
+=======
+            "support": {
+                "issues": "https://github.com/webmozarts/assert/issues",
+                "source": "https://github.com/webmozarts/assert/tree/1.9.1"
+            },
+>>>>>>> 1c5bf6d (initial)
             "time": "2020-07-08T17:02:28+00:00"
         }
     ],
@@ -9556,5 +10692,9 @@
         "php": "^7.2"
     },
     "platform-dev": [],
+<<<<<<< HEAD
     "plugin-api-version": "1.1.0"
+=======
+    "plugin-api-version": "2.0.0"
+>>>>>>> 1c5bf6d (initial)
 }

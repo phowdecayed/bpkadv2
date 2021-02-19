@@ -1,39 +1,34 @@
 @extends(getTheme('layouts.app'))
 
 @section('content')
-	<div id="box-slide" class="owl-carousel owl-theme page-slider">
-		<div class="item" style="background-image:url('{{ asset('po-content/frontend/constra/images/slider-main/bg4.jpg') }}')">
-			<div class="container">
-				<div class="box-slider-content">
-					<div class="box-slider-text">
-						<h2 class="box-slide-title">17 Years Of Excellence In</h2>
-						<h3 class="box-slide-sub-title">Construction Industry</h3>
-						<p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-							thinking team looking for talent like.</p>
-						<p>
-							<a href="{{ url('/pages/services') }}" class="slider btn btn-primary">Our Service</a>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
 
-		<div class="item" style="background-image:url('{{ asset('po-content/frontend/constra/images/slider-main/bg5.jpg') }}')">
-			<div class="container">
-				<div class="box-slider-content">
-					<div class="box-slider-text">
-						<h2 class="box-slide-title">When Services Matters</h2>
-						<h3 class="box-slide-sub-title">Your Choice is Simple</h3>
-						<p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
-							thinking team looking for talent like.</p>
-						<p>
-							<a href="{{ url('/pages/about-us') }}" class="slider btn btn-primary">Know Us</a>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<section id="slider" class="slider-element slider-parallax swiper_wrapper min-vh-60 min-vh-md-100 include-header">
+    <div class="slider-inner">
+        <div class="swiper-container swiper-parent">
+            <div class="swiper-wrapper">
+                    @foreach(headlinePost(3, 0) as $headlinePost)
+                    <div class="swiper-slide dark">
+                        <div class ="container">
+                            <div class="slider-caption slider-caption-center">
+                                <h2 data-animate="fadeInUp"><a href="{{ prettyUrl($headlinePost) }}">{{ $headlinePost->title }}</a></h2>
+                            </div>
+                        </div>
+                        <div class="swiper-slide-bg" style="background-image: url('{{ getPicture($headlinePost->picture, 'original', $headlinePost->updated_by) }}');">
+                        </div>
+                    </div>
+                    @endforeach
+                </div>
+            </div>
+            <div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
+            <div class="slider-arrow-right"><i class="icon-angle-right"></i></div>
+            <div class="slide-number">
+                <div class="slide-number-current"></div><span>/</span>
+                <div class="slide-number-total"></div>
+            </div>
+            <a href="#" data-scrollto="#content" data-offset="100" class="one-page-arrow dark"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+        </div>
+    </div>
+</section>
 
 	<section class="call-to-action no-padding">
 		<div class="container">

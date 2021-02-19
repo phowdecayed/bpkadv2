@@ -4,12 +4,11 @@
 @else
 	<li class="menu-item">
 		@if($menu->target == 'none')
-		<a class="menu-link" href="{{ url($menu->url) }}">{!! $menu->title !!}</a>
+		    <a class="menu-link" href="{{ url($menu->url) }}">{!! $menu->title !!}</a>
 		@else
-		<a class="menu-link" href="{{ $menu->url }}" target="_blank">{!! $menu->title !!}</a>
+		    <a class="menu-link" href="{{ $menu->url }}" target="_blank">{!! $menu->title !!}</a>
 		@endif
 @endif
-</li>
 	@if (count($menu->children) > 0)
 		<ul class="sub-menu-container">
 			@foreach($menu->children as $menu)
@@ -17,4 +16,5 @@
 			@endforeach
 		</ul>
 	@endif
+</li>
 

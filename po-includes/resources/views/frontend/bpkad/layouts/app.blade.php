@@ -15,16 +15,22 @@
     <!-- Stylesheets
 	============================================= -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Poppins:300,400,500,600,700|PT+Serif:400,400i&display=swap" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/bootstrap.css') }}">
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/style.css') }}">
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/swiper.css') }}">
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/dark.css') }}">
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/font-icons.css') }}">
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/animate.css') }}">
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/magnific-popup.css') }}">
-	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/custom.css') }}">
+	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/bootstrap.css') }}" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/swiper.css') }}" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/dark.css') }}" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/font-icons.css') }}" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/animate.css') }}" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/magnific-popup.css') }}" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/custom.css') }}" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="{{ asset('po-content/frontend/bpkad/css/style.css') }}" rel="stylesheet" type="text/css"/>
 
 	@stack('styles')
+
+    <script>
+		window.Laravel = <?php echo json_encode([
+			'csrfToken' => csrf_token(),
+		]); ?>
+	</script>
 
 	{!! NoCaptcha::renderJs() !!}
 
@@ -75,16 +81,13 @@
                                 <path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path>
                             </svg>
                         </div>
-			            <nav cla
-                        ss="primary-menu with-arrows">
-				            <div class="container">
+			            <nav class="primary-menu with-arrows">
                                 <ul class="menu-container">
                                     @each(getTheme('partials.menu'), getMenus(), 'menu', getTheme('partials.menu'))
                                     <div id="top-search" class="header-misc-icon">
                                         <a href="#" id="top-search-trigger"><i class="icon-line-search"></i><i class="icon-line-cross"></i></a>
                                     </div>
                                 </ul>
-                            </div>
                         </nav>
                         <form class="top-search-form row" action="{{ url('search') }}" method="get">
                             <input type="text" name="terms" class="form-control col-6" placeholder="Ketik &amp; Tekan Enter.." autocomplete="off">
@@ -96,42 +99,41 @@
 
 		@yield('content')
 
-		<footer id="footer" class="footer bg-overlay">
-			<div class="footer-main">
+		<footer id="footer" class="light">
 				<div class="container">
-					<div class="row">
-						<div class="col-md-4 col-sm-12 footer-widget footer-about">
-							<img class="footer-logo" src="{{ asset('po-content/uploads/'.getSetting('logo_footer')) }}" alt="" />
-							<p>{{ \Str::limit(strip_tags(getPages(1)->content), 200) }}</p>
-							<div class="footer-social">
-								<ul>
-									<li><a href="{{ getSetting('facebook') }}"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="{{ getSetting('twitter') }}"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="{{ getSetting('youtube') }}"><i class="fa fa-youtube-play"></i></a></li>
-								</ul>
-							</div>
-						</div>
+                    <div class="footer-widgets-wrap">
+					        <div class="row">
+						        <div class="col-md-4 col-sm-12">
+							        <img class="footer-logo" src="{{ asset('po-content/uploads/'.getSetting('logo_footer')) }}" alt="" />
+							            <p>{{ \Str::limit(strip_tags(getPages(1)->content), 200) }}</p>
+							    <div class="footer-social">
+									    <a href="{{ getSetting('facebook') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-facebook"> <i class="icon-facebook"></i> <i class="icon-facebook"></i></a>
+									    <a href="{{ getSetting('twitter') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-twitter"> <i class="icon-twitter"></i> <i class="icon-twitter"></i></a>
+                                        <a href="{{ getSetting('twitter') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-instagram"> <i class="icon-instagram"></i> <i class="icon-instagram"></i> </a>
+									    <a href="{{ getSetting('youtube') }}" target="_blank" class="social-icon si-small si-rounded topmargin-sm si-youtube"> <i class="icon-youtube"></i> <i class="icon-youtube"></i></a>
+							    </div>
+						    </div>
 
-						<div class="col-md-4 col-sm-12 footer-widget">
-							<!-- <h3 class="widget-title">ALAMAT</h3>
-							<div class="working-hours">
-								<i class="fa fa-location-arrow"></i> {{ getSetting('address') }}
-							</div> -->
-						</div>
+						    <div class="col-md-4 col-sm-12 footer-widget">
+							    <!-- <h3 class="widget-title">ALAMAT</h3>
+							    <div class="working-hours">
+								    <i class="fa fa-location-arrow"></i> {{ getSetting('address') }}
+							    </div> -->
+						    </div>
 
-						<div class="col-md-4 col-sm-12 footer-widget">
-							<h3 class="widget-title">SITEMAP</h3>
-							<ul class="list-arrow">
-								<li><a href="{{ url('/') }}">Home</a></li>
-								<li><a href="{{ url('pages/about-us') }}">About Us</a></li>
-								<li><a href="{{ url('pages/services') }}">Services</a></li>
-								<li><a href="{{ url('album/all') }}">Gallery</a></li>
-								<li><a href="{{ url('contact') }}">Contact</a></li>
-							</ul>
-						</div>
-					</div>
+						    <div class="col-md-4 col-sm-12 footer-widget">
+							    <h3 class="widget-title">SITEMAP</h3>
+							    <ul class="list-arrow">
+								    <li><a href="{{ url('/') }}">Home</a></li>
+								    <li><a href="{{ url('pages/about-us') }}">About Us</a></li>
+								    <li><a href="{{ url('pages/services') }}">Services</a></li>
+								    <li><a href="{{ url('album/all') }}">Gallery</a></li>
+								    <li><a href="{{ url('contact') }}">Contact</a></li>
+							    </ul>
+						    </div>
+					    </div>
+                    </div>
 				</div>
-			</div>
 
 			<div class="copyright">
 				<div class="container">
@@ -153,11 +155,7 @@
 						</div>
 					</div>
 
-					<div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top affix">
-						<button class="btn btn-primary" title="Back to Top">
-							<i class="fa fa-angle-double-up"></i>
-						</button>
-					</div>
+<div id="gotoTop" class="icon-angle-up"></div>
 				</div>
 			</div>
 		</footer>
